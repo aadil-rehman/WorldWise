@@ -13,42 +13,6 @@
       "id": "73930385"
     },
     {
-      "id": "9322",
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-09T12:26:12.154Z",
-      "notes": "Awesome",
-      "position": {
-        "lat": "40.40957492033851",
-        "lng": "-3.7020492553710938"
-      }
-    },
-    {
-      "id": "688e",
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-02-09T12:26:45.443Z",
-      "notes": "Great",
-      "position": {
-        "lat": "48.8583905296204",
-        "lng": "2.3071289062500004"
-      }
-    },
-    {
-      "id": "9711",
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-02-09T12:27:08.768Z",
-      "notes": "Nice",
-      "position": {
-        "lat": "52.55798590427374",
-        "lng": "13.406066894531252"
-      }
-    },
-    {
       "id": "a4f1",
       "cityName": "London",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
@@ -70,6 +34,54 @@
       "position": {
         "lat": "28.665286207625755",
         "lng": "77.43782043457033"
+      }
+    },
+    {
+      "id": "c2d0",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-10T07:48:13.069Z",
+      "notes": "sefef",
+      "position": {
+        "lat": "40.36747374615593",
+        "lng": "-3.7518310546875004"
+      }
+    },
+    {
+      "id": "61bd",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-10T07:48:21.842Z",
+      "notes": "sdwqdq",
+      "position": {
+        "lat": "48.86832824998009",
+        "lng": "2.3497009277343754"
+      }
+    },
+    {
+      "id": "f8df",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-10T07:49:17.954Z",
+      "notes": "srgeht",
+      "position": {
+        "lat": "52.53376701989027",
+        "lng": "13.410186767578127"
+      }
+    },
+    {
+      "id": "6668",
+      "cityName": "Meneses de Campos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-10T09:21:00.568Z",
+      "notes": "deqwd3w",
+      "position": {
+        "lat": "41.95131994679697",
+        "lng": "-4.888916015625001"
       }
     }
   ]
