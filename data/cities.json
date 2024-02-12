@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "id": "a4f1",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-02-09T12:27:25.456Z",
-      "notes": "Team Head : Aadil\ndate : 09/02/24\nGreat respone",
-      "position": {
-        "lat": "51.43346414054374",
-        "lng": "-0.23071289062500003"
-      }
-    },
-    {
       "id": "4cbe",
       "cityName": "Ghaziabad",
       "country": "India",
@@ -61,27 +49,27 @@
       }
     },
     {
-      "id": "f8df",
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-02-10T07:49:17.954Z",
-      "notes": "srgeht",
+      "id": "837a",
+      "cityName": "Tehran",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-02-12T11:19:00.475Z",
+      "notes": "cwesawq",
       "position": {
-        "lat": "52.53376701989027",
-        "lng": "13.410186767578127"
+        "lat": "35.706377408871774",
+        "lng": "51.417388916015625"
       }
     },
     {
-      "id": "6668",
-      "cityName": "Meneses de Campos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-10T09:21:00.568Z",
-      "notes": "deqwd3w",
+      "id": "086f",
+      "cityName": "Rampur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-12T11:20:37.665Z",
+      "notes": "sdwwad",
       "position": {
-        "lat": "41.95131994679697",
-        "lng": "-4.888916015625001"
+        "lat": "28.806173508854776",
+        "lng": "79.02637481689455"
       }
     }
   ]
