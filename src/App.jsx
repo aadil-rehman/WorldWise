@@ -12,7 +12,7 @@ import Form from "./components/Form";
 import { CitiesProvider } from "./contexts/CitiesContext";
 import { AuthProvider } from "./contexts/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
-import HomePage from "./pages/HomePage";
+import Home from "./pages/Home";
 
 function App() {
 	return (
@@ -20,7 +20,7 @@ function App() {
 			<CitiesProvider>
 				<BrowserRouter>
 					<Routes>
-						<Route index element={<HomePage />}></Route>
+						<Route index element={<Home />}></Route>
 						<Route path="product" element={<Product />}></Route>
 						<Route path="pricing" element={<Pricing />}></Route>
 						<Route path="login" element={<Login />}></Route>
