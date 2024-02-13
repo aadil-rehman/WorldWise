@@ -1,11 +1,8 @@
 import {createContext, useContext, useEffect, useReducer } from "react";
 
-
-
-
 const CitiesContext = createContext();
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = import.meta.env.DEV ? "http://localhost:9000" : import.meta.env.VITE_API_URL;
 
 const initialState = {cities: [],
     isLoading: false, 
